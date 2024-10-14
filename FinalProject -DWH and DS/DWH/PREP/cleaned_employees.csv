@@ -1,0 +1,301 @@
+employee_id,username,email,isAdmin,department,team,timeSpent,gender
+1,Ywu,samanthaperkins@example.net,True,Data Management,Infrastructure Team,86049,Male
+2,Jennifer27,wevans@example.net,True,Software Development,Technical Support Team,56812,Female
+3,Vedwards,matthew60@example.net,False,Cloud Services,User Experience (Ux) Team,79179,Male
+4,Gonzalessabrina,melissa00@example.net,True,It Support,Devops Team,63847,Male
+5,Jessica89,tonya60@example.org,False,Software Development,User Experience (Ux) Team,10197,Male
+6,Denise90,eanderson@example.org,False,Software Development,User Experience (Ux) Team,77159,Female
+7,Jennifer04,ddavidson@example.com,False,Cybersecurity,Quality Assurance (Qa) Team,92601,Male
+8,Tracykelly,hayesmelissa@example.com,True,Cybersecurity,Infrastructure Team,72228,Female
+9,Michaelhernandez,ianharris@example.net,False,Data Management,Technical Support Team,44318,Male
+10,Hamptonmary,david49@example.com,False,Data Management,Devops Team,51102,Male
+11,Johnsonleonard,robertmorris@example.com,False,It Support,Data Analytics Team,91451,Female
+12,Newing,revans@example.net,False,Data Management,User Experience (Ux) Team,42581,Male
+13,Herrerajacob,vegatammy@example.org,True,Data Management,User Experience (Ux) Team,57163,Male
+14,Zacharylee,julia44@example.com,False,Network Administration,User Experience (Ux) Team,54195,Female
+15,Leslie54,gloverjason@example.org,False,Software Development,Infrastructure Team,944,Female
+16,Jamesbradford,jacksontravis@example.net,False,Network Administration,Infrastructure Team,87580,Male
+17,Woodspatricia,turnerkatherine@example.com,False,Network Administration,User Experience (Ux) Team,67030,Male
+18,Charlenejacobs,meganlopez@example.net,False,Cybersecurity,Data Analytics Team,31073,Female
+19,James75,vargasjill@example.org,True,Network Administration,Infrastructure Team,60894,Female
+20,Rickygarcia,edgarhernandez@example.com,False,Data Management,Devops Team,84940,Female
+21,Joshua14,kathleen86@example.com,True,Data Management,Quality Assurance (Qa) Team,74223,Female
+22,Dustin00,isaiah96@example.com,False,Cloud Services,Devops Team,51571,Male
+23,Hhodges,joneschad@example.com,False,Network Administration,Quality Assurance (Qa) Team,86001,Male
+24,Gwendolynfields,hernandezkatherine@example.net,False,Network Administration,Quality Assurance (Qa) Team,84952,Female
+25,Scott93,cynthiaosborne@example.net,False,Data Management,Quality Assurance (Qa) Team,71183,Male
+26,Jhill,bethany49@example.net,False,Software Development,Devops Team,49762,Male
+27,Slee,ugray@example.com,False,Network Administration,Technical Support Team,20077,Female
+28,Vross,joannphillips@example.net,False,Software Development,Data Analytics Team,46426,Male
+29,Msparks,nancy39@example.net,False,Cybersecurity,Data Analytics Team,96587,Male
+30,Alexandergary,marcusellis@example.com,False,Network Administration,Data Analytics Team,34843,Female
+31,Brianamartin,omurillo@example.com,False,It Support,Infrastructure Team,29667,Female
+32,Weaverronald,zmoreno@example.com,False,Network Administration,Infrastructure Team,96507,Male
+33,Lawsoncrystal,erobinson@example.net,False,It Support,Technical Support Team,39990,Female
+34,Kylemiller,mmorales@example.org,False,Network Administration,User Experience (Ux) Team,28197,Female
+35,Urobertson,bauersteven@example.net,False,Network Administration,User Experience (Ux) Team,24651,Female
+36,Igoodwin,sarahcarlson@example.org,False,It Support,User Experience (Ux) Team,31538,Male
+37,Moranedwin,miranda60@example.org,False,It Support,Infrastructure Team,42733,Male
+38,Lorrainesullivan,laura16@example.org,False,Network Administration,Data Analytics Team,93916,Female
+39,Kimberly68,cstafford@example.net,True,Network Administration,Technical Support Team,11930,Male
+40,Amanda58,khernandez@example.net,False,Data Management,Infrastructure Team,38586,Female
+41,Reedwendy,jmiller@example.org,False,Cloud Services,Devops Team,24260,Male
+42,Ryansloan,jennifer56@example.com,False,Data Management,Infrastructure Team,96663,Female
+43,Lmartinez,jeremybailey@example.org,False,Network Administration,Quality Assurance (Qa) Team,31095,Male
+44,Melissareed,kimberlyfrazier@example.org,True,Cybersecurity,Devops Team,58778,Female
+45,Jamesmonroe,miranda04@example.org,False,Network Administration,Devops Team,53897,Female
+46,Charles05,ncunningham@example.net,False,Software Development,Infrastructure Team,20019,Male
+47,Emilyrogers,amy47@example.com,False,Cybersecurity,Devops Team,79719,Female
+48,Fordgregory,stewartsamantha@example.org,False,Cybersecurity,Data Analytics Team,30625,Male
+49,Grayjeremy,qenglish@example.com,False,It Support,Devops Team,71364,Male
+50,Qcollins,katherinewalker@example.net,False,Network Administration,Technical Support Team,9439,Male
+51,Michele43,wrightlonnie@example.net,False,Software Development,Quality Assurance (Qa) Team,99006,Female
+52,Baldwinbrandon,epope@example.org,False,Software Development,Devops Team,19220,Female
+53,Karen64,christopher12@example.net,True,It Support,User Experience (Ux) Team,64004,Male
+54,Kevincastaneda,sallyclark@example.com,False,Cybersecurity,Technical Support Team,1995,Female
+55,Oscarmartinez,brandi54@example.com,False,It Support,Quality Assurance (Qa) Team,86703,Female
+56,Calhounkimberly,hvelasquez@example.org,False,Software Development,Technical Support Team,43124,Female
+57,Fletcherrobert,bakertara@example.com,False,Cybersecurity,Data Analytics Team,70890,Female
+58,Melissa65,bdavidson@example.org,False,Cloud Services,Infrastructure Team,28136,Female
+59,Kaylagarcia,davidwade@example.com,False,Software Development,Devops Team,37857,Female
+60,Jennifersmith,nelsontimothy@example.net,False,It Support,Data Analytics Team,93492,Male
+61,Daniellejohnson,weavermary@example.org,False,Network Administration,Infrastructure Team,36679,Male
+62,Obrown,elizabeth05@example.com,False,Cybersecurity,User Experience (Ux) Team,4975,Female
+63,Jacksonjames,eterrell@example.org,False,It Support,Data Analytics Team,49876,Male
+64,Thompsonheidi,tammy67@example.org,False,It Support,Devops Team,35480,Male
+65,Gabriel66,peggy95@example.com,False,Software Development,Quality Assurance (Qa) Team,13678,Male
+66,Manningtonya,davidgould@example.net,False,It Support,Data Analytics Team,89601,Female
+67,Randolphjohn,wagnermaria@example.com,False,Cloud Services,User Experience (Ux) Team,53286,Female
+68,Rebeccalove,sharon67@example.com,False,Cloud Services,User Experience (Ux) Team,60745,Male
+69,Karenbrown,dunlapalexandra@example.net,True,Network Administration,Infrastructure Team,51623,Male
+70,Tlewis,fdaniels@example.org,False,Data Management,Infrastructure Team,76705,Female
+71,Isaac52,nicole16@example.com,False,Data Management,Devops Team,56708,Female
+72,Gregoryfoster,gomezmichael@example.net,False,Software Development,Infrastructure Team,4820,Male
+73,Zrice,fernandezaimee@example.net,False,It Support,Quality Assurance (Qa) Team,40776,Male
+74,Kingluke,wheelerashley@example.net,False,Network Administration,Quality Assurance (Qa) Team,82621,Female
+75,Joseph21,prattkaren@example.org,False,Cloud Services,Data Analytics Team,30918,Female
+76,Brooke83,crystalmiller@example.net,False,Cloud Services,Devops Team,47291,Male
+77,Joseph98,allenparker@example.com,False,Network Administration,User Experience (Ux) Team,16514,Female
+78,Melissa99,carol21@example.net,False,Software Development,Technical Support Team,53298,Male
+79,Nbaker,lfields@example.net,False,It Support,Quality Assurance (Qa) Team,25567,Male
+80,Rmiller,elizabeth47@example.com,False,Cybersecurity,Data Analytics Team,94934,Female
+81,Mikeclark,sarahlowe@example.net,False,Cloud Services,Quality Assurance (Qa) Team,78212,Female
+82,Jennifervasquez,efox@example.com,False,Cloud Services,Technical Support Team,33837,Female
+83,Hartmanjeremy,sking@example.com,False,Cybersecurity,Quality Assurance (Qa) Team,732,Male
+84,Lewislaurie,davidcastillo@example.org,False,It Support,Quality Assurance (Qa) Team,42190,Female
+85,Kimberly36,norrishaley@example.net,False,Cloud Services,Infrastructure Team,62947,Male
+86,Careydaniel,christopher11@example.net,False,Cybersecurity,Data Analytics Team,83334,Female
+87,Lewisjohn,brent85@example.net,False,Cloud Services,Quality Assurance (Qa) Team,92801,Female
+88,Jared70,lwatson@example.com,False,Cloud Services,Technical Support Team,50142,Male
+89,Hbender,sandrathomas@example.org,True,Data Management,Infrastructure Team,65512,Male
+90,Olsonrachel,brianwebb@example.org,False,Cloud Services,Infrastructure Team,2791,Female
+91,Camachokurt,wanda99@example.net,False,Software Development,User Experience (Ux) Team,34408,Female
+92,Kgardner,hcallahan@example.net,False,Cloud Services,User Experience (Ux) Team,67173,Male
+93,Jefferymontgomery,ayalaeric@example.com,False,It Support,Devops Team,2256,Female
+94,Kristen95,lgarcia@example.net,False,It Support,Data Analytics Team,9313,Male
+95,Richardlarsen,hensleyjustin@example.net,False,Network Administration,Data Analytics Team,7719,Male
+96,Henry54,cunninghamronald@example.com,False,Software Development,Data Analytics Team,5969,Female
+97,Rachaelmcfarland,dlucas@example.org,False,Data Management,User Experience (Ux) Team,99538,Female
+98,Sperez,zgray@example.org,True,Software Development,Data Analytics Team,27337,Male
+99,Shortteresa,michaelknight@example.org,False,It Support,Technical Support Team,9604,Male
+100,Carlshepard,jonathan13@example.org,False,Software Development,Technical Support Team,93889,Male
+101,Martinsamantha,martinkevin@example.com,False,Cybersecurity,Quality Assurance (Qa) Team,19897,Female
+102,Laurathompson,catherine56@example.com,False,Data Management,Technical Support Team,92259,Female
+103,Stokesmichael,alexandernelson@example.org,False,Cybersecurity,Infrastructure Team,49902,Female
+104,Crawfordebony,rbrandt@example.com,False,Data Management,User Experience (Ux) Team,59300,Female
+105,Hwu,xdean@example.org,False,Cybersecurity,Data Analytics Team,80453,Male
+106,Ymiller,lthompson@example.org,False,Data Management,Infrastructure Team,27392,Male
+107,Jennifer53,matthewscott@example.org,False,It Support,Quality Assurance (Qa) Team,65130,Female
+108,George96,spencerchristopher@example.com,False,Software Development,Technical Support Team,26996,Female
+109,Uwoods,michaelgreen@example.org,False,Network Administration,Data Analytics Team,4918,Female
+110,Lcisneros,shari28@example.org,False,Data Management,Data Analytics Team,81328,Female
+111,Thomas11,benjamin59@example.org,False,Network Administration,Devops Team,20317,Male
+112,Woodsjessica,jklein@example.org,False,It Support,Data Analytics Team,56969,Female
+113,Shelbyrichardson,lindsey69@example.org,False,Software Development,Technical Support Team,70057,Female
+114,Michellecraig,petersenmarisa@example.net,False,It Support,Devops Team,55072,Male
+115,Pschneider,downspeggy@example.com,False,Data Management,Data Analytics Team,81239,Male
+116,Briannaperkins,logan26@example.org,False,Network Administration,Quality Assurance (Qa) Team,66833,Female
+117,Vsmith,drakechristopher@example.com,True,Cloud Services,Infrastructure Team,72128,Male
+118,Oliverbrian,justincurtis@example.com,False,Cloud Services,Quality Assurance (Qa) Team,8938,Male
+119,John24,dawnschultz@example.com,False,Cloud Services,Infrastructure Team,13298,Male
+120,Nashkaren,cassandrayoung@example.org,True,It Support,Devops Team,17617,Male
+121,Trandavid,barry76@example.com,False,Cybersecurity,Infrastructure Team,27552,Female
+122,Dakota28,michael98@example.org,False,Data Management,Data Analytics Team,55499,Female
+123,Anthonyschneider,carl58@example.com,False,It Support,Devops Team,13858,Female
+124,Lwalker,bestdaniel@example.net,False,Software Development,Data Analytics Team,18934,Male
+125,Lopezpatrick,kevin82@example.net,False,Software Development,Technical Support Team,38803,Male
+126,Pharris,mallen@example.net,False,Software Development,Quality Assurance (Qa) Team,3864,Male
+127,Christina22,deborah63@example.net,False,Network Administration,User Experience (Ux) Team,54865,Female
+128,Erinlara,laurarivera@example.org,True,Software Development,Quality Assurance (Qa) Team,46903,Male
+129,Michaelhebert,elizabeth85@example.org,True,Cybersecurity,User Experience (Ux) Team,24318,Male
+130,Kerrjared,jacksonhelen@example.net,False,Software Development,User Experience (Ux) Team,13006,Male
+131,Lcampos,moranariel@example.com,False,Cloud Services,User Experience (Ux) Team,11385,Male
+132,Nicholetorres,karen23@example.org,False,Data Management,Quality Assurance (Qa) Team,56205,Male
+133,Dwilson,wwelch@example.com,False,Cloud Services,User Experience (Ux) Team,91255,Female
+134,Whitneyjuarez,zacharymcgee@example.net,False,Cloud Services,Infrastructure Team,14237,Male
+135,Molly71,scottjennifer@example.com,False,Network Administration,Infrastructure Team,43727,Female
+136,Smyers,nlee@example.com,False,Cybersecurity,Data Analytics Team,43440,Male
+137,Lynchcorey,stephanieolson@example.com,False,Data Management,Infrastructure Team,96079,Male
+138,Silvagary,kaylasandoval@example.com,False,Cybersecurity,User Experience (Ux) Team,76036,Female
+139,Ohernandez,lesliebryan@example.com,True,Data Management,Quality Assurance (Qa) Team,67628,Female
+140,Michellewalker,thomas67@example.net,False,Data Management,Data Analytics Team,47888,Female
+141,Vincenttheresa,brianaharvey@example.net,False,Software Development,Data Analytics Team,53733,Female
+142,Valeriesalazar,sarah85@example.net,False,Cloud Services,Technical Support Team,48391,Male
+143,Barbara60,schneiderbenjamin@example.net,False,It Support,Devops Team,10620,Female
+144,Fuentesdavid,millercarol@example.com,False,Cybersecurity,Devops Team,73876,Female
+145,Stephen73,michael41@example.com,False,It Support,Technical Support Team,39155,Male
+146,Bgalvan,lisa82@example.net,False,Software Development,Technical Support Team,75057,Male
+147,Michelealexander,alejandrali@example.net,False,Data Management,Infrastructure Team,13862,Female
+148,Hicksdillon,lewisalicia@example.com,False,Data Management,Infrastructure Team,70144,Female
+149,Kingpatricia,cooperjohnny@example.net,False,Cloud Services,Infrastructure Team,39124,Female
+150,Ukim,penny03@example.net,False,Data Management,Quality Assurance (Qa) Team,65410,Female
+151,Bcarson,erika75@example.org,False,Network Administration,Devops Team,55628,Female
+152,Alvin43,michael32@example.org,False,It Support,User Experience (Ux) Team,89594,Male
+153,Patrick63,nathansolis@example.net,False,Data Management,Technical Support Team,74528,Female
+154,Tlynn,stantonstephanie@example.com,True,Software Development,Infrastructure Team,87313,Female
+155,Catherinelopez,mmendoza@example.net,False,Cybersecurity,Infrastructure Team,87293,Female
+156,Andersonwilliam,johnmiller@example.org,False,Data Management,Technical Support Team,72058,Male
+157,Caitlinmadden,gtaylor@example.org,False,It Support,Quality Assurance (Qa) Team,34278,Female
+158,Deborahvazquez,jamiechang@example.org,False,Network Administration,Devops Team,21676,Male
+159,Josephkoch,martinezmatthew@example.net,False,Network Administration,Technical Support Team,69866,Male
+160,Garnermary,laratimothy@example.org,False,Data Management,Data Analytics Team,9778,Female
+161,Donna84,william80@example.org,False,Cloud Services,Infrastructure Team,64225,Male
+162,Williamharris,collingonzalez@example.com,False,Software Development,Technical Support Team,25485,Female
+163,Jordanvincent,timothyhinton@example.com,False,Software Development,Infrastructure Team,7178,Male
+164,Qsawyer,hughesmatthew@example.org,False,It Support,Devops Team,47289,Female
+165,Mcintoshjon,robertramirez@example.com,False,It Support,User Experience (Ux) Team,36970,Male
+166,Lindamullins,terranceduffy@example.org,False,Cybersecurity,Data Analytics Team,15763,Female
+167,Gordonamanda,kyle73@example.org,False,Data Management,Infrastructure Team,25788,Male
+168,Jbarry,stephanie90@example.com,True,Cloud Services,Infrastructure Team,56585,Female
+169,Jordanrichards,kwilliams@example.com,False,Cybersecurity,Infrastructure Team,85635,Female
+170,Kennethsmall,brownmackenzie@example.com,False,Software Development,User Experience (Ux) Team,35175,Female
+171,Davidpadilla,jonestiffany@example.net,False,Data Management,Quality Assurance (Qa) Team,37797,Female
+172,Gillespieduane,howardvickie@example.net,False,Data Management,User Experience (Ux) Team,37559,Female
+173,Collinsmark,jordandawn@example.net,False,It Support,Devops Team,45629,Female
+174,Eshaw,marissarose@example.com,False,It Support,User Experience (Ux) Team,19281,Female
+175,Johnjones,amy39@example.org,False,Software Development,Quality Assurance (Qa) Team,78499,Female
+176,Paulchelsey,byoung@example.com,False,Network Administration,Devops Team,24663,Female
+177,Hhurst,smithnathan@example.net,False,Data Management,Devops Team,65508,Female
+178,Kcline,stephenburnett@example.net,False,It Support,Infrastructure Team,75243,Female
+179,Lynchwilliam,horngeorge@example.net,False,Software Development,Technical Support Team,31424,Male
+180,Sherry19,cathymyers@example.com,False,Network Administration,Technical Support Team,48986,Male
+181,Nelsonmichele,debrahenry@example.org,False,Cloud Services,Data Analytics Team,47075,Female
+182,Fscott,brianpotts@example.com,False,Data Management,User Experience (Ux) Team,91263,Female
+183,Sandralee,kristinamorris@example.org,False,Cloud Services,Quality Assurance (Qa) Team,87094,Male
+184,Umcguire,pflores@example.net,False,Software Development,User Experience (Ux) Team,99991,Female
+185,Ymccormick,timothywhite@example.org,True,Cloud Services,Quality Assurance (Qa) Team,90224,Male
+186,Cmiller,heidismith@example.net,False,Cloud Services,User Experience (Ux) Team,79190,Male
+187,Huntertroy,matthewwalker@example.net,False,It Support,User Experience (Ux) Team,92497,Female
+188,Wilkinsmargaret,bperkins@example.net,True,Software Development,Quality Assurance (Qa) Team,55340,Female
+189,Djohnson,stevenmeyers@example.net,False,Software Development,Infrastructure Team,93068,Female
+190,Fshea,hornchristine@example.org,False,Cybersecurity,User Experience (Ux) Team,19595,Female
+191,Cynthiahebert,maxwellstephanie@example.com,False,Software Development,Data Analytics Team,53378,Male
+192,Justinwalker,randy92@example.net,False,Software Development,User Experience (Ux) Team,57669,Female
+193,Gleon,esnow@example.com,False,Cloud Services,Infrastructure Team,80836,Male
+194,Foxadam,simsjeremy@example.org,False,Network Administration,Quality Assurance (Qa) Team,21779,Female
+195,Nbishop,grace71@example.net,False,Data Management,Quality Assurance (Qa) Team,9690,Male
+196,Jonathan01,cynthia49@example.com,False,Cloud Services,Quality Assurance (Qa) Team,73808,Female
+197,Barbaralopez,autumnadams@example.org,False,Cybersecurity,Devops Team,24337,Male
+198,Paynegina,cmartinez@example.com,False,Data Management,Quality Assurance (Qa) Team,28825,Male
+199,Frankeric,briannasimmons@example.net,False,Software Development,Devops Team,4565,Male
+200,Cthornton,richardbailey@example.org,True,Network Administration,Devops Team,5192,Female
+201,Twilliams,sarahsmith@example.net,False,Cybersecurity,Infrastructure Team,4590,Female
+202,Joneswalter,nguyenmonica@example.com,False,It Support,Technical Support Team,73940,Male
+203,Thomasmiguel,ellisdwayne@example.net,True,Cloud Services,Quality Assurance (Qa) Team,56470,Female
+204,Clarkandrea,gloriacrosby@example.org,False,Network Administration,Technical Support Team,14780,Female
+205,Tammy05,kingnicholas@example.org,False,Data Management,Infrastructure Team,93470,Male
+206,Mooreashley,cantrellrenee@example.net,False,Cybersecurity,User Experience (Ux) Team,67666,Female
+207,Churchjeffrey,leedavid@example.net,False,It Support,Infrastructure Team,48521,Male
+208,Tjenkins,donaldjohnson@example.org,False,Cybersecurity,User Experience (Ux) Team,33128,Male
+209,Jodimaynard,mreynolds@example.net,False,Network Administration,User Experience (Ux) Team,78309,Male
+210,Huynhmichael,xdeleon@example.net,False,Software Development,Infrastructure Team,93277,Female
+211,Martinjennifer,perryandrew@example.com,False,Network Administration,Infrastructure Team,98125,Male
+212,Johnpatterson,shelbyjohnson@example.com,True,It Support,Devops Team,90129,Male
+213,Baileydonald,dmatthews@example.net,False,Cloud Services,Data Analytics Team,75332,Male
+214,Watsongary,kari26@example.org,False,Data Management,Quality Assurance (Qa) Team,9231,Female
+215,Jjones,curryaaron@example.com,False,Network Administration,Data Analytics Team,7015,Male
+216,Smithcarmen,william94@example.org,True,It Support,Quality Assurance (Qa) Team,67612,Male
+217,Annapierce,carolinealexander@example.net,True,Data Management,Data Analytics Team,45454,Female
+218,Matthewholt,kim51@example.org,False,Network Administration,Infrastructure Team,58363,Male
+219,Erikaelliott,xalvarez@example.com,False,It Support,Quality Assurance (Qa) Team,21253,Female
+220,Richard69,carrollryan@example.com,True,Network Administration,Infrastructure Team,65752,Female
+221,Rogerfleming,freemanbrandon@example.org,True,Network Administration,Technical Support Team,6196,Male
+222,Drivera,crivas@example.net,False,It Support,Technical Support Team,75992,Male
+223,Jonesjacqueline,gabriela14@example.net,False,Data Management,Devops Team,3793,Female
+224,Glennespinoza,rwade@example.org,False,It Support,Quality Assurance (Qa) Team,67016,Female
+225,Lsherman,nicolebrennan@example.com,False,Software Development,Devops Team,24211,Male
+226,Molly79,travis50@example.com,False,Data Management,Infrastructure Team,7184,Male
+227,Millerdonald,flemingnoah@example.net,True,Network Administration,Infrastructure Team,99231,Male
+228,Xsosa,gardnerderrick@example.org,False,It Support,Quality Assurance (Qa) Team,89687,Male
+229,Dpalmer,destiny67@example.com,False,It Support,Devops Team,8842,Female
+230,Rjohnson,pateljennifer@example.net,False,Cybersecurity,Data Analytics Team,76886,Male
+231,Kramerlarry,stephen57@example.com,False,It Support,Data Analytics Team,95462,Male
+232,Michael73,derrickcolon@example.net,False,Software Development,Quality Assurance (Qa) Team,46432,Male
+233,Lsalinas,bennetterin@example.net,False,Network Administration,Quality Assurance (Qa) Team,62097,Male
+234,Anna62,clinton99@example.org,True,Cybersecurity,Quality Assurance (Qa) Team,90392,Female
+235,Avega,uconley@example.com,False,It Support,Devops Team,23693,Female
+236,Brobertson,hlopez@example.com,False,It Support,Infrastructure Team,50451,Female
+237,Antonio59,tstewart@example.org,False,It Support,Data Analytics Team,42342,Female
+238,Xmitchell,utaylor@example.com,False,Cloud Services,Data Analytics Team,54269,Male
+239,Mwilliams,wallaceandrea@example.com,False,It Support,Data Analytics Team,42323,Male
+240,John57,adamsmichelle@example.net,False,Network Administration,Quality Assurance (Qa) Team,83228,Male
+241,Willie02,fgill@example.com,False,It Support,Infrastructure Team,11641,Male
+242,Smithdanny,emorales@example.com,False,It Support,Devops Team,26863,Female
+243,Bmclean,adamsjennifer@example.net,True,Cloud Services,Data Analytics Team,42884,Female
+244,Jeffrey77,coxdesiree@example.net,False,Data Management,Devops Team,72944,Male
+245,Mary30,benjaminwebster@example.com,False,Software Development,Technical Support Team,90232,Male
+246,Amy26,omitchell@example.com,False,Software Development,Data Analytics Team,14350,Female
+247,Vincent61,hbutler@example.com,False,It Support,Quality Assurance (Qa) Team,88449,Female
+248,Gdunn,angela22@example.net,False,Cybersecurity,User Experience (Ux) Team,31202,Male
+249,Rileyjohn,lauramiller@example.net,False,Software Development,Quality Assurance (Qa) Team,41915,Female
+250,Maddoxjennifer,brownrenee@example.net,False,Cybersecurity,Quality Assurance (Qa) Team,18663,Female
+251,Barralexander,christopherdean@example.org,False,Software Development,Devops Team,56366,Female
+252,Briansalas,troyramsey@example.net,False,Software Development,Devops Team,55656,Female
+253,Leebill,xalexander@example.org,False,Software Development,Quality Assurance (Qa) Team,43441,Male
+254,Richard00,daniel47@example.org,False,It Support,User Experience (Ux) Team,3069,Male
+255,Joseph16,marshalljoseph@example.org,False,Software Development,Quality Assurance (Qa) Team,29238,Female
+256,Katrina23,nancy06@example.org,False,It Support,Infrastructure Team,7246,Male
+257,Hudsonkimberly,eric56@example.org,False,Cloud Services,Devops Team,14636,Male
+258,Njenkins,jodi03@example.com,False,It Support,Technical Support Team,62221,Female
+259,Butleremily,glennhuff@example.org,False,Cloud Services,Technical Support Team,10800,Male
+260,Whitejennifer,jennifer07@example.net,False,Software Development,Technical Support Team,2521,Female
+261,Watsonangela,matthew55@example.net,False,It Support,User Experience (Ux) Team,72704,Male
+262,Paula29,moralesmichelle@example.net,False,Cloud Services,Infrastructure Team,54305,Female
+263,Tiffanydavis,yharrell@example.net,False,Software Development,Infrastructure Team,77285,Male
+264,Uwilson,vmunoz@example.com,False,Cybersecurity,Devops Team,58530,Female
+265,Adamcasey,sarahhill@example.net,False,Cybersecurity,Technical Support Team,34944,Female
+266,Rebecca23,mark88@example.net,False,It Support,Data Analytics Team,83891,Female
+267,Irobinson,nicholas05@example.org,False,Data Management,Quality Assurance (Qa) Team,68175,Male
+268,Bharrison,alanyates@example.com,False,Data Management,Quality Assurance (Qa) Team,18805,Male
+269,Andrearoberts,wrightvictoria@example.org,False,Data Management,Devops Team,67003,Female
+270,Douglas53,tamara09@example.org,True,Software Development,Data Analytics Team,82127,Female
+271,Ymartinez,zimmermanandrew@example.com,False,Software Development,Quality Assurance (Qa) Team,72091,Female
+272,Jeffrey06,bennettlee@example.com,False,It Support,User Experience (Ux) Team,38238,Male
+273,Zmcknight,kayla37@example.org,True,Software Development,Quality Assurance (Qa) Team,48737,Female
+274,Ohill,morrislaura@example.net,False,Software Development,Devops Team,83067,Male
+275,Smithjason,laura50@example.org,False,Network Administration,Technical Support Team,86630,Male
+276,Rpalmer,johnsondominic@example.net,False,Software Development,User Experience (Ux) Team,591,Female
+277,Fpalmer,bethanyreed@example.net,False,Software Development,Quality Assurance (Qa) Team,69272,Male
+278,Shannonowens,ebright@example.net,False,Cloud Services,Devops Team,56237,Female
+279,Wandagarcia,peter24@example.com,False,Data Management,Technical Support Team,83766,Female
+280,Huntsandra,linda69@example.org,False,Software Development,Devops Team,12735,Female
+281,Lroberts,kduncan@example.org,False,Data Management,Data Analytics Team,24804,Male
+282,Barrettkellie,smithsabrina@example.net,False,Data Management,Data Analytics Team,45014,Male
+283,Stevensdaniel,lkline@example.net,True,Software Development,User Experience (Ux) Team,58859,Male
+284,Mcdonaldrichard,nicholas10@example.org,True,Software Development,User Experience (Ux) Team,65487,Female
+285,Maria12,teresabuck@example.org,False,Network Administration,Technical Support Team,4295,Male
+286,Ataylor,susanquinn@example.com,False,Network Administration,Devops Team,62334,Male
+287,Clarksara,thomashelen@example.com,False,Network Administration,Quality Assurance (Qa) Team,55754,Female
+288,Gdavis,nfloyd@example.com,False,Data Management,Technical Support Team,65672,Male
+289,Wwilliams,jonathandavis@example.net,False,Cloud Services,Infrastructure Team,99436,Male
+290,Zprice,tstevens@example.net,False,Cloud Services,Data Analytics Team,29991,Male
+291,Lawsonandrew,ljones@example.net,False,Data Management,User Experience (Ux) Team,88411,Female
+292,Mckenzie03,karlamoreno@example.com,True,Software Development,Technical Support Team,22167,Male
+293,Xguerrero,nicholas21@example.com,False,Software Development,Devops Team,26861,Male
+294,Hayeskyle,stephengarcia@example.com,False,Software Development,User Experience (Ux) Team,17614,Male
+295,Michael58,serranomary@example.com,False,Cybersecurity,User Experience (Ux) Team,24911,Female
+296,Nwilliams,kwood@example.net,False,Cloud Services,Quality Assurance (Qa) Team,17395,Male
+297,Meltonjesus,anna99@example.com,False,Network Administration,Quality Assurance (Qa) Team,69489,Female
+298,Gregory69,mary10@example.net,False,Network Administration,User Experience (Ux) Team,5797,Female
+299,Martinezjacob,xharvey@example.com,False,Cloud Services,Technical Support Team,33075,Female
+300,Kennethbrown,zwilson@example.com,False,Cloud Services,Data Analytics Team,20425,Female
